@@ -1,0 +1,2 @@
+# PythonProjects
+Python Projelerini İçerir.
